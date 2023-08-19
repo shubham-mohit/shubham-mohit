@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node-js, HTML, CSS, MongoDb, JS**
 
-- 💬 Ask me about **Node-js , MongoDb**
+- 💬 Ask me about **Node-js , MongoDb** , Reactjs
 
 - 📫 How to reach me **shubhammohite801@gmail.com**
 
